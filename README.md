@@ -40,7 +40,7 @@ Here are the results of some tests games made on 1000 random battles (all these 
 <img width="302" alt="Screen Shot 2021-12-12 at 3 25 46 PM" src="https://user-images.githubusercontent.com/32247660/145728367-118b86a2-6724-460c-99d3-27cdc93cfc33.png">
 
 2. Battle between Shark1: weaponright and Shark2: no attributes
-<img width="346" alt="Screen Shot 2021-12-12 at 3 27 22 PM" src="https://user-images.githubusercontent.com/32247660/145728429-e4a12a68-8c0a-465b-9db4-b6c818103ae0.png">
+<img width="309" alt="Screen Shot 2021-12-12 at 5 10 55 PM" src="https://user-images.githubusercontent.com/32247660/145731551-f0187fbe-cec7-490a-a523-08fdb71018d8.png">
 
 3. Battle between Shark1: weaponright and Shark2: armor
 <img width="314" alt="Screen Shot 2021-12-12 at 4 55 50 PM" src="https://user-images.githubusercontent.com/32247660/145731119-3aa7e9f5-16f2-4750-8cf3-b1fc611f9e1a.png">
